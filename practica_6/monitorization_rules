@@ -1,0 +1,7 @@
+#735576, Briones Yus, Patricia, T, 1, A
+#757024, Garcés Latre, Germán, T, 1, A
+
+load average: [2]
+[5][0-9]% /
+^netstat
+^swap "[3-9][0-9][0-9]"$
